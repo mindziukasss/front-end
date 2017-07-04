@@ -10,3 +10,7 @@ html {
 .login-page .container{
  max-width: 640px;
 }
+
+.navbar .nav-link {
+    white-space: nowrap;
+}
